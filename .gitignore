@@ -6,3 +6,8 @@ models/*.pkl
 
 # Ignore temporary files or checkpoints (optional)
 *.ipynb_checkpoints/
+
+# Ignore environment and dependency tracking files
+environment.yml
+requirements.txt
+update_env.sh

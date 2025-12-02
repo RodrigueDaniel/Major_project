@@ -2,7 +2,7 @@
 data/*.csv
 
 # Ignore pickle model files
-models/*.pkl
+#models/*.pkl
 
 # Ignore temporary files or checkpoints (optional)
 *.ipynb_checkpoints/
